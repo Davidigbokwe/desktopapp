@@ -1,0 +1,5 @@
+#office Time keeping and Register app.
+#app will have boxes for fname,sname, date and we will log in the time they logged into the office.
+#app is offline so can only be accessed on a system when you get into the office
+#stores data in a data base
+
